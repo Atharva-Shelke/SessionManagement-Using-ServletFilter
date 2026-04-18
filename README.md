@@ -27,7 +27,7 @@ A lightweight web application built with **Java Servlets**, **JSP**, and **Filte
 2. Import it into **STS/Eclipse** as a "Dynamic Web Project".
 3. Ensure **Apache Tomcat 9.0** is configured in your "Targeted Runtimes".
 4. Right-click the project -> **Run As** -> **Run on Server**.
-5. Access the app at: `http://localhost:8080/[YourProjectName]/index.jsp`
+5. Access the app at: `http://localhost:8080/SessionManagement-Using-ServletFilter`
 
 ## 📝 License
 This project is for educational purposes.

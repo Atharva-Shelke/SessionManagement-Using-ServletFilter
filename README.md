@@ -29,5 +29,7 @@ A lightweight web application built with **Java Servlets**, **JSP**, and **Filte
 4. Right-click the project -> **Run As** -> **Run on Server**.
 5. Access the app at: `http://localhost:8080/SessionManagement-Using-ServletFilter`
 
-## 📝 License
-This project is for educational purposes.
+## 📝 Prerequisites
+- **JDK 1.8**
+- **Apache Tomcat 9.0**
+- **Eclipse/STS IDE**
